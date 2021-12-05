@@ -3,7 +3,7 @@ Self-assignment for the "Fundamental of Data Science" course 2021/22 at La Sapie
 
 ## Authors
 
-First assigment:
+### First assigment:
 - Elios Buzo
 
 - Ludovico Lentini
@@ -11,7 +11,7 @@ First assigment:
 - Michele Spina
 
 
-Second assigmnet:
+### Second assigmnet:
 - Elios Buzo
 
 - Laurentiu Adrian Cristurean
