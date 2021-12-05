@@ -1,5 +1,6 @@
-# FDS_assignaments
-Self-assignment for the "Fundamental of Data Science" course 2021/22 at La Sapienza. 
+# Fundamental of Data Science assignaments
+Self-assignment for the "Fundamental of Data Science" course 2021/22 at La Sapienza of Prof. Fabio Galasso.
+
 
 ## Authors
 
