@@ -1,5 +1,5 @@
 # Fundamental of Data Science assignaments
-Self-assignment for the "Fundamental of Data Science" course 2021/22 at La Sapienza of Prof. Fabio Galasso.
+This repository contains a solution for the self-assignment _Prof. Galasso_'s course of _Fundamental of Data Science_ of the academic year 2021/22.
 
 ## Topics
 
