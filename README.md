@@ -1,5 +1,5 @@
 # Fundamental of Data Science assignments
-This repository contains a solution for the self-assignment _Prof. Galasso_'s course of _Fundamental of Data Science_ of the academic year 2021/22.
+This repository contains a solution for the assignments of _Fundamentals of Data Science_ course at Sapienza University of Rome, a.y. 2021/2022
 
 ## Topics
 
@@ -18,13 +18,13 @@ This repository contains a solution for the self-assignment _Prof. Galasso_'s co
 
 ## Authors
 
-### First assigment:
+### First assignment:
 - Elios Buzo
 - Ludovico Lentini
 - Michele Spina
 
 
-### Second assigmnet:
+### Second assignment:
 - Elios Buzo
 - Laurentiu Adrian Cristurean
 - Anthony Giusti
