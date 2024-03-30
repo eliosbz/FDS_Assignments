@@ -1,15 +1,15 @@
-# Fundamental of Data Science assignaments
+# Fundamental of Data Science assignments
 This repository contains a solution for the self-assignment _Prof. Galasso_'s course of _Fundamental of Data Science_ of the academic year 2021/22.
 
 ## Topics
 
-### First assignament
-1.  Image Filtering and Object Identification
+### First assignment
+1. Image Filtering and Object Identification
 2. Identification
 3. Object Identification 
 4. K-Means
 
-### Second assignament
+### Second assignment
 
 1. Logistic Regression with Gradient Ascent
 2. Logistic Regression with non linear boundaries 
