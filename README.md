@@ -1,5 +1,5 @@
 # Fundamentals of Data Science assignments
-This repository contains a solution for the assignments of _Fundamentals of Data Science_ course at Sapienza University of Rome, a.y. 2021/2022
+This repository contains a solution for the assignments of _Fundamentals of Data Science_ course at Sapienza University of Rome, a.y. 2021/2022.
 
 ## Topics
 
